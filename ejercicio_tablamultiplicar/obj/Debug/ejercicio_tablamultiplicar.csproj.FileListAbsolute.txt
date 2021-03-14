@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\bin\Debug\ejercicio_tablamultiplicar.exe.config
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\bin\Debug\ejercicio_tablamultiplicar.exe
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\bin\Debug\ejercicio_tablamultiplicar.pdb
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\obj\Debug\ejercicio_tablamultiplicar.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\obj\Debug\ejercicio_tablamultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\obj\Debug\ejercicio_tablamultiplicar.exe
+C:\Users\sebas\source\repos\ejercicio_tablamultiplicar\ejercicio_tablamultiplicar\obj\Debug\ejercicio_tablamultiplicar.pdb
